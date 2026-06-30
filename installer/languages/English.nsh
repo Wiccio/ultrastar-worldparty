@@ -101,7 +101,7 @@ ${LangFileString} page_finish_txt_update "${name} Update has checked for a new v
 
 ${LangFileString} sm_shortcut "Play ${name}"
 ${LangFileString} sm_uninstall "Uninstall"
-${LangFileString} sm_website "Webseite"
+${LangFileString} sm_website "Website"
 ${LangFileString} sm_license "License"
 ${LangFileString} sm_readme "Readme"
 ${LangFileString} sm_songs "Songs"
